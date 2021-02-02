@@ -1,0 +1,21 @@
+name: slchange
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - numpy
+  - pandas
+  - xarray
+  - scipy
+  - seaborn
+  - scikit-learn
+  - matplotlib
+  - cartopy
+  - python
+  - pip
+  - netcdf4
+  - dask
+  - jupyterlab
+  - cmocean
+  - nbconvert
+  - pip:
